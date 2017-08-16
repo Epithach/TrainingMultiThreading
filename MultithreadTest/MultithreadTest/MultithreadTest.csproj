@@ -47,6 +47,15 @@
     <Compile Include="Personnel\Enseignant.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\AbortTest.cs" />
+    <Compile Include="Tests\DelegateTest.cs" />
+    <Compile Include="Tests\EmployeesTest.cs" />
+    <Compile Include="Tests\JoinTest.cs" />
+    <Compile Include="Tests\LocksTest.cs" />
+    <Compile Include="Tests\MutexTest.cs" />
+    <Compile Include="Tests\SemaphoreSlimTest.cs" />
+    <Compile Include="Tests\VariableControlTest.cs" />
+    <Compile Include="Tests\ThreadTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
