@@ -3,3 +3,6 @@
 ################################################################################
 
 /MultithreadTest/packages
+/MultithreadTest/.vs/MultithreadTest/v15
+/MultithreadTest/MultithreadTest/obj/Debug
+/MultithreadTest/MultithreadTest/bin/Debug
