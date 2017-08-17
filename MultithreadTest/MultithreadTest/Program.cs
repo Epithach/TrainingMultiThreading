@@ -56,6 +56,10 @@ namespace MultithreadTest
             JoinTest.Tutorial();
 
             /*
+             * Task test
+             */
+            TaskTest.Tutorial();
+            /*
              * Abort Tests
              */
             //AbortTest.Tutorial();

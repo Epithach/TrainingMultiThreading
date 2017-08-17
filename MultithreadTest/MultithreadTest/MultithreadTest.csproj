@@ -54,6 +54,7 @@
     <Compile Include="Tests\LocksTest.cs" />
     <Compile Include="Tests\MutexTest.cs" />
     <Compile Include="Tests\SemaphoreSlimTest.cs" />
+    <Compile Include="Tests\TaskTest.cs" />
     <Compile Include="Tests\VariableControlTest.cs" />
     <Compile Include="Tests\ThreadTest.cs" />
   </ItemGroup>
